@@ -184,6 +184,8 @@ export const certifications = [
 ];
 
 export const awards = [
+  { title: "Ace of the Quarter", detail: "RingCentral" },
+  { title: "Best Debut Award", detail: "RingCentral" },
   { title: "Applause / Quarterly Award ×2", detail: "ABSYZ — Q4 2022 and Q2 2024" },
   { title: "Best Find of the Year (Lateral)", detail: "ABSYZ" },
   { title: "Best Team Player", detail: "ABSYZ" },
